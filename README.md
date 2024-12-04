@@ -42,9 +42,11 @@ To create a 3D model from given orthographic projection.
 
 ## OUTPUT:
 
-![image](https://github.com/user-attachments/assets/39f0c65c-9fd0-439d-b6dd-6cee59dfa961)
+![image](https://github.com/user-attachments/assets/96de00de-087e-4055-9be3-c61e5d5b5adf)
+
 
 NAME: B.AADHITHAN
+
 REF NO: 24003844
 
 
